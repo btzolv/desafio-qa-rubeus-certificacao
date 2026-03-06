@@ -73,6 +73,7 @@ Descrição: O ícone correspondente ao Youtube no rodapé da página está redi
 🛠️ Como rodar o projeto
 Clone o repositório:
 git clone https://github.com/btzolv/desafio-qa-rubeus-certificacao.git
+
 Instale as dependências:
 npm install
 
