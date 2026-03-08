@@ -56,7 +56,11 @@ describe('Relatório de Qualidade Automatizado - Certificação Rubeus', () => {
     cy.get(certificacaoPage.elements.setaCurso3).should('have.attr', 'href').and('not.be.empty');
   });
 
-  it.only('Item 09 - Deve validar se o ícone Youtube redireciona corretamente', () => {
+  it('Item 09 - Deve validar se o ícone Youtube redireciona corretamente', () => {
     cy.get(certificacaoPage.elements.iconYoutube).should('have.attr', 'href', 'https://www.youtube.com/');
   });
+
+  it.only('Item 10 - Validar presença de texto Lorem Ipsum em seções reais', () => {
+    cy.get(certificacaoPage.elements.fraseBody).should('not.contain', 'Lorem')
+   });
 });

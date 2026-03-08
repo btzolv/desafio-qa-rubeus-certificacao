@@ -26,7 +26,9 @@ class CertificacaoPage {
       btnSaibaIncompleto: ':contains("Saiba")',
       setasCursos: '.card-curso .seta-link',
   
-      iconYoutube: '#inm1sk'
+      iconYoutube: '#inm1sk',
+
+      fraseBody: '#icijv'
     }
   
     visit() {
