@@ -1,4 +1,5 @@
 Desafio de Automação Rubeus - Certificação QA
+
 Este repositório contém a automação de testes para a página de certificação da Rubeus, utilizando Cypress e o padrão Page Objects. O objetivo foi identificar e documentar bugs de usabilidade, conteúdo e funcionalidade.
 
 🚀 Tecnologias Utilizadas
