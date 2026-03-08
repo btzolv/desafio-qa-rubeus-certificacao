@@ -71,6 +71,12 @@ Classificação: Usabilidade
 Prioridade: Média
 Descrição: O ícone correspondente ao Youtube no rodapé da página está redirecionando o tráfego para a plataforma TikTok, caracterizando um erro de vinculação de links externos.
 
+Item 10 - Uso de texto Lorem Ipsum 
+Tipo: Correção 
+Classificação: Usabilidade 
+Prioridade: Média 
+Descrição: Diversas seções ainda utilizam o texto padrão Lorem Ipsum, o que indica que o conteúdo real não foi inserido, prejudicando a comunicação com o aluno.
+
 🛠️ Como rodar o projeto
 Clone o repositório:
 git clone https://github.com/btzolv/desafio-qa-rubeus-certificacao.git
